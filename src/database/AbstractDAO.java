@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 /**
  * Centraliseert gedeelde database bewerkingen
- * @author Remi De Boer, Gerke de Boer, Michael Oosterhout
+ * @author Bart Falkena
  */
 public abstract class AbstractDAO {
 
